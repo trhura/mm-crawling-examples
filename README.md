@@ -1,7 +1,7 @@
 ## About
 
 `Scrapy` is open-source web scraping framework for Python. This
-repostiroy contains scrapy spiders for some myanmar websites — that I
+repository contains scrapy spiders for some myanmar websites — that I
 crawled previously for data collection.
 
 ## Usage
